@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "JobQuest-RN-App",
+    "slug": "JobQuest-RN-App",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "JobQuest-RN-App"
+}
